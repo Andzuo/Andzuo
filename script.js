@@ -1,4 +1,4 @@
-let xpUser = 10
+let xpUser = 10000
 const name = "Anderson"
 let levelUser = ""
 
